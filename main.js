@@ -3,7 +3,7 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://vt.tokopedia.com/t/ZS9BVeu6Sp8en-8OCKZ/", "_blank")
+    window.open("https://vt.tokopedia.com/t/ZS9StRqNCADQ8-de7XO/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://vt.tokopedia.com/t/ZS9BVeu6Sp8en-8OCKZ/");
+    window.open("https://vt.tokopedia.com/t/ZS9StRqffB7BR-X9UCP/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
